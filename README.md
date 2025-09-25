@@ -228,10 +228,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This tool is for educational and research purposes. Economic data analysis should be conducted by qualified professionals. Past performance does not guarantee future results.
 
-## Support
-
-📖 [FRED Documentation](https://fred.stlouisfed.org/docs/api/)
-
----
-
 *"Economic data is fundamental to financial analysis, policymaking, and investment strategies. Understanding revisions is crucial for making informed decisions."*
